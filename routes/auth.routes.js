@@ -1,0 +1,13 @@
+// const express = require("express");
+
+// const { login } = require("../controllers/auth.controller");
+
+// const router = express.Router();
+
+// router.post("/login", login);
+
+// router.get("/activities", auth, getActivities);
+
+// router.post("/activity", auth, addActivity);
+
+// module.exports = router;
